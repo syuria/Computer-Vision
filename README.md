@@ -1,4 +1,4 @@
 # Computer-Vision
 
-I am working with improving image quality by applying various denoising techniques.
-I also develop a simple Python pipeline to detect boxes in an image. 
+Project 1: Improving image quality by applying various denoising techniques.
+Project 2: Detecting boxes in an image. 
